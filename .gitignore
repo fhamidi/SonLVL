@@ -41,6 +41,7 @@ local.properties
 *.user
 *.sln.docstates
 .vs/
+.vscode/
 
 # Build results
 
@@ -214,4 +215,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
